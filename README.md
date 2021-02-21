@@ -9,7 +9,7 @@
 
 ### Deploy
 
-[Acesse a aplicação. Clique aqui!](https://figma-land-layout.vercel.app/)
+[Acesse a aplicação. Clique aqui!](https://bella-olonje.vercel.app/)
 
 ### Tópicos
 
@@ -29,7 +29,7 @@
 
 ## Layout:
 
-![Home](https://github.com/netojso/teste-eagle/blob/master/prints/Pagina%20Dashboard.png)
+![Home](https://github.com/netojso/bella-olonje-food-ui/blob/main/src/assets/bella-olonje-food.gif)
 
 ## Pré-requisitos
 
